@@ -1,0 +1,17 @@
+!*yaml
+!.gitignore
+!*.md
+!*.sh
+!*.js*
+
+!node-red/
+
+secrests.yaml
+
+.ssh
+.storage
+.cloud
+.google.token
+home-assistant.log*
+id_rsa*
+
